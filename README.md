@@ -1,2 +1,4 @@
-# C-and-C-Plus-Plus-Scripts
-A repository containing C and C++ scripts that I create for fun, automation, etc.
+# Introduction
+This is a repository that contains the scripts and source codes that I write for fun, automation, daily use, or other tasks.
+\
+All scripts will be in their respective sub-folders inside this repo.
