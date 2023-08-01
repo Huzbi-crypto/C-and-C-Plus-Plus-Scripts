@@ -5,7 +5,7 @@ This is a 3-D spinning animation of a cube created with the help of mathematics.
 and will realize how it is possible.
 ### Instructions on Building From Source:
 1. Copy the code,
-2. Inside the folder of the source code, run `gcc cube.c -o {YOUR-EXECUTABLE-NAME}`.
+2. Inside the folder of the source code, run `gcc cube.c -o {YOUR-EXECUTABLE-NAME}`,
 3. Then run the executable that was built from the above command.
 ### Requirments:
 - A C compiler, such as MingW or MYSYS.
